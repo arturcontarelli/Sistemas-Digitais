@@ -72,10 +72,5 @@ Todas as atividades foram simuladas no ModelSim para verificar o funcionamento c
 
 ---
 
-## Autor
-
 Este laboratório foi desenvolvido como parte das atividades práticas da disciplina de Circuitos Digitais com VHDL.
 
----
-
-Se quiser, posso adaptar esse README diretamente para Markdown e formatar com indentação e cabeçalhos prontos para colar no GitHub. Deseja isso?
